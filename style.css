@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee|Indie+Flower|Oswald:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i');
+
+
+body {
+	margin: 0; 
+}
+
+header	{
+	background: black;
+	color: white;
+	padding: 8px 0px 6px 40px;
+	height: 45px;
+}
+
+header h1 {
+	display:  inline;
+	font-family: 'Oswald', sans-serif;
+ 	font-weight: 400;
+ 	font-size: : 32px;
+ 	float: left;
+ 	margin-top: 0px;
+ 	margin-right: 10px;
+
+}
+
+nav ul{
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 15px;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+#nav{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.homered{
+	background-color: red;
+	padding: 30px 10px 15px 10px;
+
+}
+
+.divider{
+	background-color: red;
+	height: 5px;
+}
+
+.homeblack:hover{
+	background-color: blue;
+		padding: 30px 10px 15px 10px;
+
+}
+
+.fwimage1{
+	background-image: url(maxresdefault.jng);
+	width: 1340px;
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+
+
+}
+
+.homesub{
+	font-family: 'Montserrat', sans-serif;
+
+	margin: 0; 
+	padding: 9% 5% 0% 55%;
+	font-size: 18px; 
+	color: darkblue;
+}
+
+.homedes{
+
+	margin: 0.5% 0% 0% 55%;
+	font-size: 75px;
+	color: red;
+	background-color: rgba(0, 0, 0, 0.4);
+	display: inline;
+}
+ 
+.homepho {
+	font-family: 'Oswald', sans-serif;
+	margin: 0% 0% 0% 55%;
+	font-size: 70px;
+	color: black;
+	display: inline;
+}
+
+
+}
